@@ -1,4 +1,4 @@
 # Microsoft Office Practicals
-# University of Vavuniya
+# University Projects
 # 1st Year 1st Semester
 # By Suleka Dissanayake
